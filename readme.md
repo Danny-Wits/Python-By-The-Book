@@ -1,6 +1,6 @@
-# **BCA (Software Development) - Sixth Semester**
+# **Course Title:** Programming in Python
+## **BCA (Software Development) - Sixth Semester**
 
-## **Course Title:** Programming in Python
 
 - **Course Code:** UMJ/CST663
 - **Credits:** 3 (L-P-T: 3-1-0)
