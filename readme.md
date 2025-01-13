@@ -1,15 +1,6 @@
 # **Course Title:** Programming in Python
-## **BCA (Software Development) - Sixth Semester**
 
-
-- **Course Code:** UMJ/CST663
-- **Credits:** 3 (L-P-T: 3-1-0)
-- **Marks Distribution:**
-  - **Mid Semester Assessment:** 15 Marks (1.5-hour duration)
-  - **End Semester Assessment:** 60 Marks (3-hour duration)
-  - **Practical:** 25 Marks
-
----
+> **BCA (Software Development) - Sixth Semester**
 
 ## **Unit-wise Syllabus**
 
