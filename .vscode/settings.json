@@ -1,0 +1,4 @@
+{
+      // run in output not in terminal
+      "code-runner.runInTerminal": false
+}

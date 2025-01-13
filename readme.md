@@ -24,15 +24,15 @@
   - Editing, saving, and running a script
 - **Working of Python:**
   - [Variables, expressions, and statements](t1.py)
-  - Values and data types
-  - Keywords
-  - String literals
-  - Escape sequences
-  - Operators and operands
-  - Expressions and statements
+  - [Values and data types](t2.py)
+  - [Keywords](t3.py)
+  - [String literals](t4.py)
+  - [Escape sequences](t5.py)
+  - [Operators and operands](t6.py)
+  - [Expressions and statements](t1.py)
   - Interactive mode and script mode
-  - Order of operations
-  - Comments
+  - [Order of operations](t7.py)
+  - [Comments](t8.py)
 
 ---
 
