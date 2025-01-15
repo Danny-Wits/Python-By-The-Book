@@ -29,61 +29,61 @@
 
 ### **Unit 2: Conditional Statements and Loops**
 
-- Modulus Operator
-- Boolean Expressions
-- Logical Operators
+- [Modulus Operator](unit2/t1.py)
+- [Boolean Expressions](unit2/t2.py)
+- [Logical Operators](unit2/t2.py)
 - **Conditional Execution:**
-  - `if` statement
-  - Alternative Execution: `else` clause
-  - Chained Conditionals: `elif` clause
-  - Nested Conditionals
+  - [`if` statement](unit2/t3.py)
+  - [Alternative Execution: `else` clause](unit2/t3.py)
+  - [Chained Conditionals: `elif` clause](unit2/t3.py)
+  - [Nested Conditionals](unit2/t3.py)
 - **Loops:**
-  - `while` loop
-  - `for` loop
-  - `break` and `continue` statements
+  - [`while` loop](unit2/t4.py)
+  - [`for` loop](unit2/t5.py)
+  - [`break` and `continue` statements](unit2/t6.py)
 
 ---
 
 ### **Unit 3: Functions**
 
-- Function Calls
-- Type Conversion Functions
-- Math Functions
-- Composition of Functions
-- Adding New Functions
-- Importing Modules with `from`
+- [Function Calls](t1.py)
+- [Type Conversion Functions](t1.py)
+- [Math Functions](t1.py)
+- [Composition of Functions](t1.py)
+- [Adding New Functions](t1.py)
+- [Importing Modules with `from`](t1.py)
 - **Recursion:**
-  - Stack Diagram for Recursive Functions
+  - [Stack Diagram for Recursive Functions](t1.py)
 - **String Functions:**
-  - Traversal
-  - Comparison
-  - Searching
-  - Counting
-  - Pre-defined String Functions
+  - [Traversal](t1.py)
+  - [Comparison](t1.py)
+  - [Searching](t1.py)
+  - [Counting](t1.py)
+  - [Pre-defined String Functions](t1.py)
 
 ---
 
 ### **Unit 4: Lists, Dictionaries, and Tuples**
 
 - **Lists:**
-  - List as a sequence
-  - Traversing a list
-  - List operations
-  - List slices
-  - List map, filter, and reduce
-  - Deleting elements
-  - Lists and strings
+  - [List as a sequence](t1.py)
+  - [Traversing a list](t1.py)
+  - [List operations](t1.py)
+  - [List slices](t1.py)
+  - [List map, filter, and reduce](t1.py)
+  - [Deleting elements](t1.py)
+  - [Lists and strings](t1.py)
 - **Dictionaries:**
-  - Dictionary as a set of counters
-  - Looping and dictionaries
-  - Reverse Look-up
-  - Dictionaries and lists
+  - [Dictionary as a set of counters](t1.py)
+  - [Looping and dictionaries](t1.py)
+  - [Reverse Look-up](t1.py)
+  - [Dictionaries and lists](t1.py)
 - **Tuples:**
-  - Tuple assignment
-  - Tuples as return values
-  - Variable-length argument tuples
-  - Lists and tuples
-  - Dictionaries and tuples
+  - [Tuple assignment](t1.py)
+  - [Tuples as return values](t1.py)
+  - [Variable-length argument tuples](t1.py)
+  - [Lists and tuples](t1.py)
+  - [Dictionaries and tuples](t1.py)
 
 ---
 
