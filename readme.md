@@ -46,20 +46,20 @@
 
 ### **Unit 3: Functions**
 
-- [Function Calls](t1.py)
-- [Type Conversion Functions](t1.py)
-- [Math Functions](t1.py)
-- [Composition of Functions](t1.py)
-- [Adding New Functions](t1.py)
-- [Importing Modules with `from`](t1.py)
+- [Function Calls](unit3/t1.py)
+- [Type Conversion Functions](unit3/t2.py)
+- [Math Functions](unit3/t3.py)
+- [Composition of Functions](unit3/t4.py)
+- [Adding New Functions](unit3/t1.py)
+- [Importing Modules with `from`](unit3/t5.py)
 - **Recursion:**
-  - [Stack Diagram for Recursive Functions](t1.py)
+  - [Stack Diagram for Recursive Functions](unit3/t6.py)
 - **String Functions:**
-  - [Traversal](t1.py)
-  - [Comparison](t1.py)
-  - [Searching](t1.py)
-  - [Counting](t1.py)
-  - [Pre-defined String Functions](t1.py)
+  - [Traversal](unit3/t7.py)
+  - [Comparison](unit3/t7.py)
+  - [Searching](unit3/t8.py)
+  - [Counting](unit3/t8.py)
+  - [Pre-defined String Functions](unit3/t9.py)
 
 ---
 
