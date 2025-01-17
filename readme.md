@@ -66,24 +66,24 @@
 ### **Unit 4: Lists, Dictionaries, and Tuples**
 
 - **Lists:**
-  - [List as a sequence](t1.py)
-  - [Traversing a list](t1.py)
-  - [List operations](t1.py)
-  - [List slices](t1.py)
-  - [List map, filter, and reduce](t1.py)
-  - [Deleting elements](t1.py)
-  - [Lists and strings](t1.py)
+  - [List as a sequence](unit4/t1.py)
+  - [Traversing a list](unit4/t1.py)
+  - [List operations](unit4/t1.py)
+  - [List slices](unit4/t2.py)
+  - [List map, filter, and reduce](unit4/t3.py)
+  - [Deleting elements](unit4/t4.py)
+  - [Lists and strings](unit4/t5.py)
 - **Dictionaries:**
-  - [Dictionary as a set of counters](t1.py)
-  - [Looping and dictionaries](t1.py)
-  - [Reverse Look-up](t1.py)
-  - [Dictionaries and lists](t1.py)
+  - [Dictionary as a set of counters](unit4/t1.py)
+  - [Looping and dictionaries](unit4/t1.py)
+  - [Reverse Look-up](unit4/t1.py)
+  - [Dictionaries and lists](unit4/t1.py)
 - **Tuples:**
-  - [Tuple assignment](t1.py)
-  - [Tuples as return values](t1.py)
-  - [Variable-length argument tuples](t1.py)
-  - [Lists and tuples](t1.py)
-  - [Dictionaries and tuples](t1.py)
+  - [Tuple assignment](unit4/t1.py)
+  - [Tuples as return values](unit4/t1.py)
+  - [Variable-length argument tuples](unit4/t1.py)
+  - [Lists and tuples](unit4/t1.py)
+  - [Dictionaries and tuples](unit4/t1.py)
 
 ---
 

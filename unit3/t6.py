@@ -2,11 +2,11 @@
 # Definition : A function that calls itself again and again until it reaches a base case
 
 
-def factorial(n):
-    return 1 if n == 1 else n * factorial(n - 1)  # factorial calls itself
+def fac(n):
+    return 1 if n == 1 else n * fac(n - 1)  # factorial calls itself
 
 
-print(factorial(5))
+print(fac(5))
 
 # Stack Diagram for Recursive Functions
 # visualizing using console
