@@ -74,10 +74,10 @@
   - [Deleting elements](unit4/t4.py)
   - [Lists and strings](unit4/t5.py)
 - **Dictionaries:**
-  - [Dictionary as a set of counters](unit4/t1.py)
-  - [Looping and dictionaries](unit4/t1.py)
-  - [Reverse Look-up](unit4/t1.py)
-  - [Dictionaries and lists](unit4/t1.py)
+  - [Dictionary as a set of counters](unit4/t6.py)
+  - [Looping and dictionaries](unit4/t6.py)
+  - [Reverse Look-up](unit4/t7.py)
+  - [Dictionaries and lists](unit4/t8.py)
 - **Tuples:**
   - [Tuple assignment](unit4/t1.py)
   - [Tuples as return values](unit4/t1.py)
