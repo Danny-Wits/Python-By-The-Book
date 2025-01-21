@@ -79,11 +79,11 @@
   - [Reverse Look-up](unit4/t7.py)
   - [Dictionaries and lists](unit4/t8.py)
 - **Tuples:**
-  - [Tuple assignment](unit4/t1.py)
-  - [Tuples as return values](unit4/t1.py)
-  - [Variable-length argument tuples](unit4/t1.py)
-  - [Lists and tuples](unit4/t1.py)
-  - [Dictionaries and tuples](unit4/t1.py)
+  - [Tuple assignment](unit4/t9.py)
+  - [Tuples as return values](unit4/t10.py)
+  - [Variable-length argument tuples](unit4/t10.py)
+  - [Lists and tuples](unit4/t11.py)
+  - [Dictionaries and tuples](unit4/t11.py)
 
 ---
 
