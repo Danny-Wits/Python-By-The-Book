@@ -5,7 +5,6 @@
 name = "Bro"
 age = 20
 print(f"{name} is {age} years old")  # Outputs: Bro is 20 years old
-
 #!Expressions : A combination of values, variables, and operators
 
 x = 5
