@@ -21,9 +21,9 @@ s = "__Hello World__"
 # lstrip(): Removes whitespace from the left.
 # rstrip(): Removes whitespace from the right.
 # zfill(width): Pads the string with zeros.
-print("Strip: " + s.strip())  # Hello World
-print("Left Strip: " + s.lstrip())  # Hello World__
-print("Right Strip: " + s.rstrip())  # __Hello World
+print("Strip: " + s.strip("_"))  # Hello World
+print("Left Strip: " + s.lstrip("_"))  # Hello World__
+print("Right Strip: " + s.rstrip("_"))  # __Hello World
 s = "X"
 print("Zfill: " + s.zfill(5))  # 0000X
 
@@ -51,6 +51,7 @@ print(_list)
 
 _list = s.rsplit(" ")  # ['Hello', 'World']
 print(_list)
+
 
 s = " | "
 string = s.join(["a", "b", "c", "d"])

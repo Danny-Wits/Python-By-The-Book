@@ -12,6 +12,7 @@ list2 = map(lambda x: x*2, list1)
 list2 = list(list2)
 print(list2)
 
+
 # Filter retains elements that satisfy a condition.
 
 list1 = [1, 2, 3, 4, 5]

@@ -18,6 +18,6 @@ print(my_list)
 
 
 _list = ["hi", "hello", "bye"]
-# converting a list into string using .join a the separator string
+# converting a list into string using .join on the separator string
 string = " | ".join(_list)
 print(string)
