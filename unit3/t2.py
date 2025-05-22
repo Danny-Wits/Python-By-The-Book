@@ -23,3 +23,6 @@ print(_list)
 
 _set = set("12321")
 print(_set)  # same as list but only for unique elements
+
+#OTHER Type conversion functions
+print(hex(10), ord('A'), oct(10), complex(1, 2), chr(65))
